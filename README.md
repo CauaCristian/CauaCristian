@@ -6,7 +6,7 @@
 
 
 ![Cauã Cristian GitHub stats](https://github-readme-stats.vercel.app/api?username=CauaCristian&show_icons=true&theme=synthwave)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CauaCristian&hide_progress=true)](https://github.com/CauaCristian?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CauaCristian&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Linguagens que tenho conhecimento
 
