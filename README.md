@@ -19,4 +19,6 @@
   <img aling="center" alt="PYTHON" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
   <img aling="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   <img aling="center" alt="DJANGO" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-</div>
+</div><br/>
+
+### Sou um amante de programação, estou atualmente no terceiro periodo da faculdade, tento ao maximo estudar linguagens novas para mim e tenho como objetivo me tornar um desenvolvedor FullStack
