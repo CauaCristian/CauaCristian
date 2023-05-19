@@ -1,14 +1,19 @@
-### Ola sou Cauã Cristian 
+<h2 style="text-align: center">Ola sou Cauã Cristian</h2>
 
-### Sou estudante de ciências da computação no Instituto Federal Goiano
+<h3 style="text-align: center">Sou estudante de ciências da computação no Instituto Federal Goiano</h3>
+
+<h2 style="text-align: center">Redes para contato:</h2>
 
 [![Instragram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cauacristianinocencio/)[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCyJ0BtYME-oa4KGfbomSPkQ)[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cau%C3%A3-cristian-inoc%C3%AAncio-27850b277/)[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://contate.me/cauacristian)
+
+<h2 style="text-align: center">Meus status:</h2>
 
 ![CauaCristian GitHub stats](https://github-readme-stats.vercel.app/api?username=CauaCristian&show_icons=true&theme=synthwave)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CauaCristian&layout=compact&size_weight=0.5&count_weight=0.5&theme=synthwave)](https://github.com/CauaCristian?tab=repositories)
 
-### Linguagens que obtenho conhecimento
+
+<h2 style="text-align: center">Linguagens que obtenho conhecimento:</h2>
 
 <div style="display: inline_block"><br/>
   <img aling="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -21,6 +26,4 @@
   <img aling="center" alt="DJANGO" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
 </div><br/>
 
-### Sou um amante de programação, estou atualmente no terceiro período da faculdade, tento ao máximo estudar linguagens novas para mim e tenho como objetivo me tornar um desenvolvedor FullStack
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=CauaCristian&theme=dracula )](https://github.com/ryo-ma/github-profile-trophy)
+<h3 style="text-align: center">Sou um amante de programação, estou atualmente no terceiro período da faculdade, tento ao máximo estudar linguagens novas para mim e tenho como objetivo me tornar um desenvolvedor FullStack</h3>
