@@ -1,12 +1,8 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9932CC&height=120&section=header"/>
-
 ### Ola sou Cauã Cristian 
 
 ### Sou estudante de ciências da computação no Instituto Federal Goiano
 
-
 [![Instragram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cauacristianinocencio/)[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCyJ0BtYME-oa4KGfbomSPkQ)[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cau%C3%A3-cristian-inoc%C3%AAncio-27850b277/)[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://contate.me/cauacristian)
-
 
 ![CauaCristian GitHub stats](https://github-readme-stats.vercel.app/api?username=CauaCristian&show_icons=true&theme=synthwave)
 
@@ -26,3 +22,5 @@
 </div><br/>
 
 ### Sou um amante de programação, estou atualmente no terceiro período da faculdade, tento ao máximo estudar linguagens novas para mim e tenho como objetivo me tornar um desenvolvedor FullStack
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=CauaCristian&theme=dracula )](https://github.com/ryo-ma/github-profile-trophy)
