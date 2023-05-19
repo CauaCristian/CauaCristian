@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7a317c&height=200&section=header">
+
 <h2 style="text-align: center">Ola sou Cauã Cristian</h2>
 
 <h3 style="text-align: center">Sou estudante de ciências da computação no Instituto Federal Goiano</h3>
