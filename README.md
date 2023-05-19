@@ -1,5 +1,7 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff005d&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9932CC&height=120&section=header"/>
+
 ### Ola sou Cauã Cristian 
+
 ### Sou estudante de ciências da computação no Instituto Federal Goiano
 
 
