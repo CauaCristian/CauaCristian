@@ -9,7 +9,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CauaCristian&layout=compact)](https://github.com/CauaCristian?tab=repositories)
 
-### Linguagens que tenho conhecimento
+### Linguagens que obtenho conhecimento
 
 <div style="display: inline_block"><br/>
   <img aling="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
