@@ -6,7 +6,7 @@
 
 <h2 style="text-align: center">Redes para contato:</h2>
 
-[![Instragram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cauacristianinocencio/)[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cau%C3%A3-cristian-inoc%C3%AAncio-27850b277/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cau%C3%A3-cristian-inoc%C3%AAncio-27850b277/)
 
 <h2 style="text-align: center">Meus status:</h2>
 
