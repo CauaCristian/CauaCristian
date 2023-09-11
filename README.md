@@ -29,4 +29,4 @@
   <img aling="center" alt="DJANGO" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
 </div><br/>
 
-<h3 style="text-align: center">Sou um amante de programação, estou atualmente no terceiro período da faculdade, tento ao máximo estudar linguagens novas para mim e tenho como objetivo me tornar um desenvolvedor FullStack</h3>
+<h3 style="text-align: center">Sou um amante de programação, estou atualmente no quarto período da faculdade, tento ao máximo estudar linguagens novas para mim e tenho como objetivo me tornar um desenvolvedor FullStack</h3>
