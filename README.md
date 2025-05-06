@@ -27,4 +27,4 @@
 
 </div><br/>
 
-<h3 style="text-align: center">Sou um amante de programação, estou atualmente no quinto período da faculdade, tento ao máximo estudar linguagens novas para mim e tenho como objetivo me tornar um desenvolvedor FullStack </h3>
+<h3 style="text-align: center">Sou um amante de programação, estou atualmente no quinto período da faculdade, tento ao máximo estudar linguagens novas para mim e tenho como objetivo me tornar um desenvolvedor FullStack !!!</h3>
