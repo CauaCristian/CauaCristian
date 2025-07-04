@@ -27,8 +27,8 @@
    <img aling="center" alt="JAVASCRIPT" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
    <img aling="center" alt="JAVASCRIPT" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img aling="center" alt="JAVASCRIPT" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-   
-
+  <img aling="center" alt="JAVASCRIPT" src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/>
+  <img aling="center" alt="JAVASCRIPT" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
 </div><br/>
 
 <h3 style="text-align: center">Sou um amante de programação, estou atualmente no sétimo período da faculdade, tento ao máximo estudar linguagens novas para mim e tenho como objetivo me tornar um desenvolvedor FullStack !!!</h3>
